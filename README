@@ -55,7 +55,7 @@ application from the command line.
 [End of optional steps]
 		
 (1)  Navigate to the /bin directory distributed with this archive.
-		E.g. /tmp/AmazonHomework/bin
+		E.g. /tmp/JavaHomework/bin
 (2)  Enter the following command into the command line
 		$> java za.co.resnick.javahomework.Launcher <filename>
 	 where <filename> is the absolute or relative path to the
