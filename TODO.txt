@@ -1,0 +1,12 @@
+[Mandatory] README file
+		-   assumptions, files included, how to run
+ [Optional] Integration tests (i.e. for ApplicationDriver.java)
+		-   this would include several input files
+[Mandatory] Clean directory
+		-   ensure superfluous files cleared (like this one), etc.
+[Mandatory] Construct ZIP
+		-   should not end in .zip (gary.resnick_assignment_26.03.2012.zip.superfluous_suffix)
+[Mandatory] Mail to cornelle@amazon.com & cc recruiter (ilan)
+		-   explain in the mail about the renaming of the zip for extraction
+
+
